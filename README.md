@@ -2,7 +2,7 @@
 
 各种排序算法的实现(Visual Stdio 2019 Preview)：
 
-<font color=red>注意：请在VS中选择C++17标准</font>
+<font color=#ff0000>注意：请在VS中选择C++17标准</font>
 
 ------
 
