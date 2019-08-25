@@ -43,3 +43,16 @@
 
 ![img](https://github.com/i-love-linux/Sort_Cplusplus/blob/master/image/1.png)
 
+![img](https://github.com/i-love-linux/Sort_Cplusplus/blob/master/image/2.png)
+
+![img](https://github.com/i-love-linux/Sort_Cplusplus/blob/master/image/3.png)
+
+3. 如果发现项目有错误，请按如下方式解决
+
+![img](https://github.com/i-love-linux/Sort_Cplusplus/blob/master/image/4.png)
+
+![img](https://github.com/i-love-linux/Sort_Cplusplus/blob/master/image/5.png)
+
+![img](https://github.com/i-love-linux/Sort_Cplusplus/blob/master/image/6.png)
+
+![img](https://github.com/i-love-linux/Sort_Cplusplus/blob/master/image/7.png)
