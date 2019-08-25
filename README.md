@@ -33,3 +33,13 @@
 ## 基数排序
 
 > 9.基数排序
+
+---
+
+## 运行说明
+
+1. git clone https://github.com/i-love-linux/Sort_Cplusplus.git 克隆代码到本地
+2. 打开过程如下，首先点击电脑的VS2019
+
+![img](https://github.com/i-love-linux/Sort_Cplusplus/blob/master/image/1.png)
+
